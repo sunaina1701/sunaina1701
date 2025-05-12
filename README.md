@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI/ML in biology under Biotecnika platform...
 - 💞️ I’m looking to collaborate on ML projects like EDA analysis so far...
 - 📫 How to reach me sunayanachoudaryvunnam@gmail.com
-- 👨‍💻 My projects will be available at
+- 👨‍💻 My projects will be available at https://github.com/sunaina1701/sunaina1701/tree/main
 - 📝 I occasionally do blogging on : www.proteens033.blogspot.com
 - 
 
